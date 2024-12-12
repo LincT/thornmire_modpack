@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# exclude version control
+.git*
