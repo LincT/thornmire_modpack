@@ -1,0 +1,13 @@
+name = "Thaumic Traveler's Dream"
+filename = "ThaumicTraveler'sDream-Compact-1.12.2-v1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccd8ee696971a0076ee602f8cb00f42d02cea896"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2980059
+project-id = 350196
