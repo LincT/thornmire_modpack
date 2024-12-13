@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "9a4d5157eadd4f3c282aa7261b4d19fd4e759baccbf9aad422954394273a08c1"
+hash = "3b9d4fd2f09902f4c2e0d4016354c63d9e67d5d3d546fc6b4fd4bc03978b0327"
 metafile = true
 
 [[files]]
