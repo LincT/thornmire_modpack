@@ -529,11 +529,6 @@ hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
 
 [[files]]
-file = "mods/thaumcraft-6-enhanced.pw.toml"
-hash = "90af21b7067603e325d89f3772c452ca8de252786c282f907582bc5244cc2544"
-metafile = true
-
-[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
 metafile = true
