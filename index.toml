@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-wands.pw.toml"
-hash = "bd6009c4d1d758ad8c482f35d4d8007c4821cd5f2a4ceb18b4257f24c9c22836"
+hash = "de7dd06a79b1bdba3139fda7a34347a81d02a66edd601325401ed13048141a6a"
 metafile = true
 
 [[files]]

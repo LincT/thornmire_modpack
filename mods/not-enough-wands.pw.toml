@@ -3,8 +3,8 @@ filename = "notenoughwands-1.12-1.8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "bdf3dfaaa77407282445970df7b3c542a1916255fe1afe2ebaf3a62e17862cda"
+hash-format = "sha1"
+hash = "28d80045136c501e34c49ae6f80cb3b3e5bf7212"
 mode = "metadata:curseforge"
 
 [update]
