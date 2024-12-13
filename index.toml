@@ -286,7 +286,7 @@ hash = "43aa1f3de44a95b080eb74991a0a6f74742e712f67bec2745a385a0928e37dc0"
 
 [[files]]
 file = "config/enderio/recipes/user/user_recipes.xml"
-hash = "1b0da358a4144144810a8c5a8482e32e924b14b96e9ef05e17a50efd7e6d5085"
+hash = "547af1922d2225e9cb1b997fe6e0dd8ddaaca9ed0b3a431dcf0abd08504773e4"
 
 [[files]]
 file = "config/enderio/recipes/vat.pdf"
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "e89ab3481449eab2437332c6b21ded6e8c40968f290dbb9bdf0f7bd2cc19c0ee"
+hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
 metafile = true
 
 [[files]]
