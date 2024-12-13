@@ -557,3 +557,19 @@ metafile = true
 file = "mods/tomb-many-graves-2.pw.toml"
 hash = "bf4cc343fc3d9b48eeb1b1c3783a8793992a1135773186d84c76c7439f65ba6e"
 metafile = true
+
+[[files]]
+file = "recipes/_constants.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "recipes/netherquartz_from_nugget.json"
+hash = "1495d5ea174aebcc42d69dd632a30dcca88bf174b7b5bcec95bffeeffcec5155"
+
+[[files]]
+file = "recipes/netherwart_block_crusher.json"
+hash = "5987167a94b8e119c33c19c2a9c69142e2fa31a5b1ac87e2ed22b5e5b42aaf8e"
+
+[[files]]
+file = "recipes/removal.json"
+hash = "33b4d20dbfd4a845f0b712b5dcdbf899b1f0f3dad805e1584108bf88645810a0"

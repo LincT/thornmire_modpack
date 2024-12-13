@@ -1,0 +1,10 @@
+{
+  "recipesToRemove": [
+	"notenoughwands:swapping_wand",
+	"notenoughwands:capturing_wand",
+	"notenoughwands:moving_wand",
+	"notenoughwands:acceleration_wand",
+	"notenoughwands:protection_wand",
+	"notenoughwands:potion_wand"
+  ]
+}
