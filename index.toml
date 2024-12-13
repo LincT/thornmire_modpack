@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7aa03404bd04545dff17048947fd24b90f8d53f4dccb3f9a46d0f806f1b3b848"
+hash = "fd6396d45154233c9a10678f77cd7cba20e250390a2034a1c22033f70d7b035e"
 metafile = true
 
 [[files]]
@@ -526,6 +526,21 @@ metafile = true
 [[files]]
 file = "mods/schematica.pw.toml"
 hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-6-enhanced-client-patcher.pw.toml"
+hash = "cd5ea973fe578f7bcb3126bd5e46c81c29bd1113742998793dc1414b6ec13a92"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-6-enhanced-main.pw.toml"
+hash = "90af21b7067603e325d89f3772c452ca8de252786c282f907582bc5244cc2544"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-6-enhanced-server-patcher.pw.toml"
+hash = "92abff4401df62a0b99b0700bc2a88a951f124046ccb57500d607730fc02ce2a"
 metafile = true
 
 [[files]]

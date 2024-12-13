@@ -1,0 +1,13 @@
+name = "Thaumcraft 6 Enhanced"
+filename = "Thaumcraft6EnhancedPatcherServer-1.0.2.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "eb88e4e9612007afb2bcf5b8ce66fc3798205253"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3245532
+project-id = 455940
