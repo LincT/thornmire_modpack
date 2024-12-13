@@ -3,8 +3,8 @@ filename = "immersivepetroleum-1.12.2-1.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dd0ec378fef19acc7cf649be13ced76aa72e42ac"
+hash-format = "sha256"
+hash = "ee32e44e15e5dd3061553982a03d58a06036d9eabb16cf59cbec85ad38bcb6cc"
 mode = "metadata:curseforge"
 
 [update]

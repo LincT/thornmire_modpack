@@ -3,8 +3,8 @@ filename = "Quark-r1.6-179.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35521fd8911b6ef893afbfe7d0d5d04962b3360d"
+hash-format = "sha256"
+hash = "b72490ac2de814df2fd764afd6071e4e8731281ef68b3862f282c5233224259d"
 mode = "metadata:curseforge"
 
 [update]

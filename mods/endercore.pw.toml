@@ -3,8 +3,8 @@ filename = "EnderCore-1.12.2-0.5.78.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "96c2389a5fdb2968cd69fc80b478a9a0b0ecc441"
+hash-format = "sha256"
+hash = "adbd309f6c8001c38c4630aa701cdc5ea59fa7ee9ffa770e21f56b160adb443c"
 mode = "metadata:curseforge"
 
 [update]

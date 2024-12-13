@@ -3,8 +3,8 @@ filename = "LunatriusCore-1.12.2-1.2.0.42-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f70b39168f2a02d47792cf29bef432e20d0bcd57"
+hash-format = "sha256"
+hash = "67c5e8d8e975172d838f765040130ea0f73ec7a590b4470217a2f5516fdc652b"
 mode = "metadata:curseforge"
 
 [update]

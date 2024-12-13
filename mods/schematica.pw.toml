@@ -3,8 +3,8 @@ filename = "Schematica-1.12.2-1.8.0.169-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc8c851bc47ecf314c3974e3b90acfa1a62105ac"
+hash-format = "sha256"
+hash = "7f2642cdc85c32ec754914e77f5bad11976c7c9c51d296e0ae4a8428d01153e8"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "OpenTerrainGenerator-1.12.2-v9.5-R2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e0b00a4df17dc632a23361a161e8928df6c17fca"
+hash-format = "sha256"
+hash = "3169028e42b19fe6450b2bbcb8fd2a3bc6ed682205db498470c99c81167f7c6a"
 mode = "metadata:curseforge"
 
 [update]

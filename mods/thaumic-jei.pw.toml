@@ -3,8 +3,8 @@ filename = "ThaumicJEI-1.12.2-1.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "859b30c956a1cc6e5985b22cfdd7af138c747562"
+hash-format = "sha256"
+hash = "df34181baa520fc3723c5a9a776e5ede1e550df55705cdb3bbeb9ed8675bc2fa"
 mode = "metadata:curseforge"
 
 [update]
