@@ -5,16 +5,8 @@ file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
-file = "config/TinkerModules.cfg"
-hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
-
-[[files]]
 file = "config/baubles.cfg"
-hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
-
-[[files]]
-file = "config/betterdisplays/betterdisplays.cfg"
-hash = "414536b910349f13bf909f3ebfe3cb8219ee24e1995285c324c220d500417bac"
+hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/brewcraft.cfg"
@@ -38,7 +30,7 @@ hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "98e1f5fa21248c9b847e2e67d3b46c8b12f1b1d029acc46e280f7b70325c9ce0"
+hash = "f3a7bf805542af7014f71894cf57df03d6cb9dd817a3b8c71739a962bd5608a2"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
@@ -302,7 +294,7 @@ hash = "b282bba49435489b977a6c4d71c10d772b19ead11db82d7b3a17399d0723dda8"
 
 [[files]]
 file = "config/enderstorage.cfg"
-hash = "ea7c057efe693523618f1fcc1e40c2063e2694ee97d9a4421c41876cc21282c4"
+hash = "915e5bad2e0c736a4caeab4071ee55bbc05f3d5fcf3f579dbc9569bb813ea4f2"
 
 [[files]]
 file = "config/forge.cfg"
@@ -311,14 +303,6 @@ hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
 [[files]]
 file = "config/forgeChunkLoading.cfg"
 hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
-
-[[files]]
-file = "config/hammercore.cfg"
-hash = "87f49c02d752ae08471c0854e900c9ead5c8fa34c3db48dbe47434e10b664d51"
-
-[[files]]
-file = "config/hammercore/tile_entity_tick_slip.json"
-hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -330,19 +314,19 @@ hash = "8f0d93fd06363623a737c96730bca3bcc71db41c39bd132139a383aaa339493b"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "66bf49f0530692fdf823296ad338244d76449055acb4e3ad2500f6b674dc0041"
+hash = "198f5b0a21ef38decbb9d01ac8daa62a0b658932980002c974fb29c9c40c28d6"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
-hash = "ce0869c39645a87df66e2d88c569fe7c1eaaca1c2e53f51e281b4379696df2ce"
+hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
 
 [[files]]
 file = "config/immersivetech.cfg"
-hash = "c486b829cb40fd511e8207d83ec231509c315533af50f581cba3ae89d9ebe61d"
+hash = "29aa3fa3363ee91ea032d744a77082a3f685ce6b7b31cf7981482a81721d4d91"
 
 [[files]]
 file = "config/jei/bookmarks.ini"
-hash = "e592f16415d7af0124ff56126454d934a5367432587fd1c9d5b48738750b8dde"
+hash = "fc86a1287a9bdefe980e1595b24679319f60a998b229a942fe0178e3bafc9132"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -358,7 +342,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "8af9f647757cc0bd1f1190b5b355845fca37ac0eba11bede54551d2578a10431"
+hash = "0b722938f446e1c708e8f8d9219db581ecde595ec8250720717b80301375757a"
 
 [[files]]
 file = "config/journeymap_ModInfo.cfg"
@@ -366,11 +350,11 @@ hash = "cc98a374c492ee4f017f13ba1fed0aa6b77041f41187f6ee752af3de1617a835"
 
 [[files]]
 file = "config/journeymap_server.cfg"
-hash = "bfd7c39f740bf5008fb0dc55e1b140d7436f47c57775f5a0fee9721db56229bc"
+hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
 
 [[files]]
 file = "config/lunatriuscore.cfg"
-hash = "b84215869e85688dfc2e6b8ef1a88e083dca536a2772d7dd5c0defc69210a2cb"
+hash = "62b4288aef168d9d67efbf5432d0bb952542cfe49f7ba76683bbe0ea87f170c0"
 
 [[files]]
 file = "config/mcjtylib.cfg"
@@ -386,31 +370,31 @@ hash = "0d7e54cb939a44ad6390b8d4c0bd16806e0e37ea7a33f03c9c5ab5b6c379797b"
 
 [[files]]
 file = "config/schematica.cfg"
-hash = "4f7aaa9c5bbce1ee377d6c1053eaf0096121e971c39a3ebd621f373ba8da72e0"
+hash = "ca2db2343db8ceeb4d9378cddede4d9a33eccf7979ac976b8dd6545e2ae8f11f"
 
 [[files]]
 file = "config/splash.properties"
-hash = "c099662ec909710c875b6651df467c438f2e71a51c38cefa0981019095e63216"
+hash = "94bf4428fd98f8ef520d07a3afd3b95ff97a70c410875937e6e7997093f8e136"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"
-hash = "e0aa6b3b61726317c4c0f4893251f41cc86e5ec32a5b00290266d5a52bae2fa6"
+hash = "9ea93225bc5fb471d203c08b4f1d386b6bd862f52d3320c06306303d45129251"
 
 [[files]]
 file = "config/thaumcraft_misc.cfg"
-hash = "45346ca6e468cb03bb079cff99b473d6b5a7d5c66634472b22af382d4b7e4f82"
+hash = "a3f4e6a4db04ac700bb97d94652de42a04d09960e55bfdd324db930262b02715"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
-hash = "328544cdea7bc68f02b68a3002aba5efbc6dbd210c3228ce048aed613742cbdb"
+hash = "66bf48f6b778d3038d274bd3a9fa4958617b5c08965ca5540d48a8e66e7a674b"
 
 [[files]]
 file = "config/thaumcraftfix.cfg"
-hash = "165f7354121ce09ed3b1587e205e07f7ca1703f850b11f02b293e2ff77573f7b"
+hash = "0b68071498c835ffd6fec8d2499e0f7b632386fe20ea33f55750d516c457e49b"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "22860be2567cb09665ee6628b6b4c4bc73288ce665cb45c9ba5d8af27ef3768b"
+hash = "f78ed6321ef7828bed977b17024b8cc652f1ab3be5deccb4ae428f5002c28d34"
 
 [[files]]
 file = "config/thaumicjei.cfg"
@@ -418,11 +402,11 @@ hash = "f191208cedaf0c19ccdbfb4ec58af40a317383f7ba1e4385dc43dc591aeb4faa"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
-hash = "de6dc938ef416e3651a76ca5d241a4be43aec5ce6213633aa5370ceb4d30ff8a"
+hash = "43f9b6e3e022b7fe7b2313003cbf99f9bb66882ebc8b9461e47b289ad354272f"
 
 [[files]]
 file = "config/tombmanygraves.cfg"
-hash = "73bcea3794dbe3bcb2b1ad444c0582712547c85ddb523a35f36d332a562a1d6b"
+hash = "2c13a8ca6be85f331e49c1499e19bb4d7fc284343d528cf179a9527cc8d83ded"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
