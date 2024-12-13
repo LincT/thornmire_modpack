@@ -474,6 +474,11 @@ hash = "ca7b7879d416fc452285b158bebfe174ab983d5b468d98c88c38f52dc294bfa1"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
+metafile = true
+
+[[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "fd2475091d10055533c40d23961cd765a3691017dedc7e68acf03bf57f05e644"
 metafile = true
