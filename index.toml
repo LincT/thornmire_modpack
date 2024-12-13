@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "29c8c4b5792b082eb47ed08c22814b2fea796990dc0ea5dee25ce5579bbbf1d1"
+hash = "ad6bb1a3b399cc8c317348f52b3a1ac5b613b8b1692c66655c034baf84f2ae83"
 metafile = true
 
 [[files]]
