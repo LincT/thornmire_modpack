@@ -428,6 +428,11 @@ hash = "9dd04a72e14a6682f7b0084a7d13c51b3650432805ce0906e05a10d7014a6034"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "beb0b685c8ebeea200f98fb2d564703657ee6c85d67aa715682780a24465dbf0"
 metafile = true
@@ -503,11 +508,6 @@ hash = "6bdadbd368f5fe084b144199df35f7edd8afb14aed028ff286a4e63b54fe34da"
 metafile = true
 
 [[files]]
-file = "mods/recipe-manipulator.pw.toml"
-hash = "e76c9d1b7198c20f99e6ec82d9ebdda8f263ccbdbaa07d1515de4faa9c279a3a"
-metafile = true
-
-[[files]]
 file = "mods/schematica.pw.toml"
 hash = "6a6e949395eace34dca3f04035c9430d2561cffd81ce4f5b72e37b5f490c323e"
 metafile = true
@@ -543,17 +543,13 @@ hash = "bf4cc343fc3d9b48eeb1b1c3783a8793992a1135773186d84c76c7439f65ba6e"
 metafile = true
 
 [[files]]
-file = "recipes/_constants.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+file = "scripts/netherwart_block_recycling.zs"
+hash = "18cb351cdf972397e9e70fd2775a97d5d26ee14cbee82643958fbaa744eff906"
 
 [[files]]
-file = "recipes/netherquartz_from_nugget.json"
-hash = "1495d5ea174aebcc42d69dd632a30dcca88bf174b7b5bcec95bffeeffcec5155"
+file = "scripts/notenoughwands.zs"
+hash = "55f767d317306b29b46e841e8d76fc1a03e2ed9be516dc4e07e1224b64c0e86d"
 
 [[files]]
-file = "recipes/netherwart_block_crusher.json"
-hash = "5987167a94b8e119c33c19c2a9c69142e2fa31a5b1ac87e2ed22b5e5b42aaf8e"
-
-[[files]]
-file = "recipes/removal.json"
-hash = "33b4d20dbfd4a845f0b712b5dcdbf899b1f0f3dad805e1584108bf88645810a0"
+file = "scripts/thaumcraft_related_recipe_tweaks.zs"
+hash = "132399cd41f75c03e4da334fbd4c7b9c8c28a76160167660d1e0716ba6741e3c"
