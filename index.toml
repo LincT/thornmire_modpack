@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-terrain-generator.pw.toml"
-hash = "8bbd54e08b75beb167f6ec29968260798374f4054aad734aa45ed8516422b920"
+hash = "7a6481d9ce04ff7091e8e54887b1927982e1484cd6f5a183daeed3f932dab8df"
 metafile = true
 
 [[files]]
