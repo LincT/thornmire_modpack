@@ -30,7 +30,7 @@ hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "f3a7bf805542af7014f71894cf57df03d6cb9dd817a3b8c71739a962bd5608a2"
+hash = "e463b444d4a6249cbc5d2e6e7439370369255d4566893599c99e8697f8ec8553"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
