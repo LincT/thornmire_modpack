@@ -34,7 +34,7 @@ hash = "e463b444d4a6249cbc5d2e6e7439370369255d4566893599c99e8697f8ec8553"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
-hash = "bdad09e688ffb26939ba51c2c42da32398e38c602ca721eba5b68773fbdfc80e"
+hash = "b642bd53855a87b1c5d2172fd715c2007d88723568e541852250134e95965ace"
 
 [[files]]
 file = "config/enderio/enderioconduits.cfg"
