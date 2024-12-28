@@ -468,6 +468,11 @@ hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-brewcraft.pw.toml"
+hash = "34a833884090948b59ef277cc1de684285076f3f28f33797316e8ba8be7e56ea"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-harvestcraft.pw.toml"
 hash = "06e3b67ee33614ed6a0563cd6a69fdac69d5190398995707dcc9eb74d1956033"
 metafile = true
