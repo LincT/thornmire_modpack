@@ -1,0 +1,13 @@
+name = "Advanced Alchemical Furnace"
+filename = "Advanced Essentia Smelter-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d87d282a563955a2c8cffe867987c5fdb12e051"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652569
+project-id = 960604

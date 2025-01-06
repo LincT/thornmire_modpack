@@ -413,6 +413,11 @@ file = "config/worldedit/worldedit.properties"
 hash = "0bab4e75be340d213576d152ce4017c3645b4fa923934f30a823e931d25e0af4"
 
 [[files]]
+file = "mods/advanced-smelter.pw.toml"
+hash = "a3472ea9711a72b05b01053172a78ddc0195af41882b73be4041a341c5e6a103"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "67201d493e4ce0a3ddc48bd9c2959fe8723f11af722ba9021b95c2ca84dfa90b"
 metafile = true
