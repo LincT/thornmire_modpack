@@ -529,12 +529,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "b8593f9d5735ae837288b8f96b67bebb6fe0901c2053d4e7f671f22d51259ab0"
+hash = "3b9d4fd2f09902f4c2e0d4016354c63d9e67d5d3d546fc6b4fd4bc03978b0327"
 metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
+hash = "f108e2f9051750b5ae99ab6e27f32a383decd15ec799d4f1d39bc8ba9ea79b31"
 metafile = true
 
 [[files]]
