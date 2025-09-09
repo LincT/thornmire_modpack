@@ -6,3 +6,11 @@
 
 # exclude version control
 .git*
+
+# exclude items for test removal
+/rm_*
+
+# exclude archives / tests
+/scratchpad
+/test
+/bak

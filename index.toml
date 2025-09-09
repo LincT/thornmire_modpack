@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/inspectionProfiles/Project_Default.xml"
+hash = "fe6b9b0d2d7d5942e0fadc49f3e67e9f21724f1d2bdd528452c856bddb89ec5a"
+
+[[files]]
+file = ".idea/inspectionProfiles/profiles_settings.xml"
+hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "9e36e6c1e4243bde1a4482bf67c7590e27f26ce5cef55ac2fcadd40e26048931"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "630a8a54e64a9d3ef046014deab808348a4ef6c8b5f74bbb2cbd7941d417e671"
+
+[[files]]
+file = ".idea/pacwiz - modpack maker.iml"
+hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "cf77e5d18de0a0b0012ad1caba85da03fda8cbde4aad5338324982d4abcab5ce"
+
+[[files]]
 file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
@@ -317,10 +345,6 @@ file = "config/immersiveengineering.cfg"
 hash = "198f5b0a21ef38decbb9d01ac8daa62a0b658932980002c974fb29c9c40c28d6"
 
 [[files]]
-file = "config/immersivepetroleum.cfg"
-hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
-
-[[files]]
 file = "config/immersivetech.cfg"
 hash = "29aa3fa3363ee91ea032d744a77082a3f685ce6b7b31cf7981482a81721d4d91"
 
@@ -414,7 +438,7 @@ hash = "0bab4e75be340d213576d152ce4017c3645b4fa923934f30a823e931d25e0af4"
 
 [[files]]
 file = "mods/advanced-smelter.pw.toml"
-hash = "a3472ea9711a72b05b01053172a78ddc0195af41882b73be4041a341c5e6a103"
+hash = "a4feb07854eed01df466e31a4873922d86a2c037fcb3a0271fd7a0cd1560b983"
 metafile = true
 
 [[files]]
@@ -434,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
+hash = "3ef0d324c6ab0c5e6b47ba711ce019662a3d0c41c8a2caa36878336e9947eed7"
 metafile = true
 
 [[files]]
@@ -459,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
-hash = "bdd2a0650580bc356b64b7f994b7a284e2e5f974c71277abf746d29935806211"
+hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
 
 [[files]]
@@ -493,18 +517,13 @@ hash = "1e9265e442c7115f52991c6409b62aff2e81d636857cb70e8efd651ed8fc765f"
 metafile = true
 
 [[files]]
-file = "mods/mct-immersive-technology.pw.toml"
-hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "de7dd06a79b1bdba3139fda7a34347a81d02a66edd601325401ed13048141a6a"
 metafile = true
 
 [[files]]
 file = "mods/open-terrain-generator.pw.toml"
-hash = "7a6481d9ce04ff7091e8e54887b1927982e1484cd6f5a183daeed3f932dab8df"
+hash = "c914c52e9e89d93ad176e3340203ed86bdebff39469261de3f1db5d538ef8e6f"
 metafile = true
 
 [[files]]
@@ -534,12 +553,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "3b9d4fd2f09902f4c2e0d4016354c63d9e67d5d3d546fc6b4fd4bc03978b0327"
+hash = "bdf1881c7f6ba7117d21139afb754c7864aeb2bf3a7952f6960f04e5a490123d"
 metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "f108e2f9051750b5ae99ab6e27f32a383decd15ec799d4f1d39bc8ba9ea79b31"
+hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
 metafile = true
 
 [[files]]
