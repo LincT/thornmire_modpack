@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "fe6b9b0d2d7d5942e0fadc49f3e67e9f21724f1d2bdd528452c856bddb89ec5a"
-
-[[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "9e36e6c1e4243bde1a4482bf67c7590e27f26ce5cef55ac2fcadd40e26048931"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "630a8a54e64a9d3ef046014deab808348a4ef6c8b5f74bbb2cbd7941d417e671"
-
-[[files]]
-file = ".idea/pacwiz - modpack maker.iml"
-hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "cf77e5d18de0a0b0012ad1caba85da03fda8cbde4aad5338324982d4abcab5ce"
-
-[[files]]
 file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 

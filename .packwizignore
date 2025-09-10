@@ -4,8 +4,9 @@
 # Exclude README
 /README.md
 
-# exclude version control
+# exclude version control and python
 .git*
+.idea
 
 # exclude items for test removal
 /rm_*
