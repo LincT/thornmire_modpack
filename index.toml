@@ -489,6 +489,11 @@ hash = "1e9265e442c7115f52991c6409b62aff2e81d636857cb70e8efd651ed8fc765f"
 metafile = true
 
 [[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "df027ff53db0184b3a0e3d169fbf653ae1da77513baff72d854532ec71bce06c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "de7dd06a79b1bdba3139fda7a34347a81d02a66edd601325401ed13048141a6a"
 metafile = true
@@ -525,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "bdf1881c7f6ba7117d21139afb754c7864aeb2bf3a7952f6960f04e5a490123d"
+hash = "6365d941a06ee10f85df1eae2b5384ae39e1a0134a971c5994a70ce996d23044"
 metafile = true
 
 [[files]]

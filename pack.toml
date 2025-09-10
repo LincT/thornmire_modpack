@@ -1,12 +1,12 @@
-name = "Thornmire_CommunityV1"
+name = "Thaumesque"
 author = "Linc Thornmire"
-version = "1"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bdebc7abf188845a6f6d81ba15b59639cc572c5495283641d689f9c59330b274"
+hash = "d9df75838672aa76539fde53df9f38424a9bcdedfa98654054a9c654f2abf0b2"
 
 [versions]
 forge = "14.23.5.2859"
