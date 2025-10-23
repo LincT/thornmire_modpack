@@ -358,7 +358,7 @@ hash = "5da016d72f154b7f42274db7a0f6b95a0b9b70a78bf97e9ebf4ea81867add8cc"
 
 [[files]]
 file = "config/notenoughwands.cfg"
-hash = "297411c9ab3afc305da6c3af54e3b5cfa22558fcbbf855925c2c616645f6c9e0"
+hash = "aebc0f77937b709a640c3eabce906d544e54cf2e88ab16e346305d13af2dae84"
 
 [[files]]
 file = "config/quark.cfg"
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "df027ff53db0184b3a0e3d169fbf653ae1da77513baff72d854532ec71bce06c"
+hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-terrain-generator.pw.toml"
-hash = "c914c52e9e89d93ad176e3340203ed86bdebff39469261de3f1db5d538ef8e6f"
+hash = "7107bfba4a5b6548cde3700fbb88ca736f0aec3913025975515febdb4e0d7ad9"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "6365d941a06ee10f85df1eae2b5384ae39e1a0134a971c5994a70ce996d23044"
+hash = "315794629a582d220a941c9be620757426d1fa529a87b7b778f1b0ac1864187c"
 metafile = true
 
 [[files]]
