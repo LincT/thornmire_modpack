@@ -14,3 +14,7 @@ exclude the modpack compiler
 *.md
 
 .idea
+
+# Exclude local dev files
+rm_config/
+scratchpad/
