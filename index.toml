@@ -25,6 +25,10 @@ file = "config/codechickenlib.cfg"
 hash = "1aa05b9dac4c5718764e3e0a4e23addce945ca283dd21959088520160b34a66e"
 
 [[files]]
+file = "config/congregamystica.cfg"
+hash = "c7e7bcb05bd8415f25267e32bb430f6bc5ca724393ec232db1769df8ee24a448"
+
+[[files]]
 file = "config/endercore/cropconfig.json"
 hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
@@ -361,6 +365,10 @@ file = "config/notenoughwands.cfg"
 hash = "aebc0f77937b709a640c3eabce906d544e54cf2e88ab16e346305d13af2dae84"
 
 [[files]]
+file = "config/pearlhome.cfg"
+hash = "b61294f25ef017af460ab0adc5da63948efd58c1917cef084319a3d8c20a48cb"
+
+[[files]]
 file = "config/quark.cfg"
 hash = "0d7e54cb939a44ad6390b8d4c0bd16806e0e37ea7a33f03c9c5ab5b6c379797b"
 
@@ -426,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "9dd04a72e14a6682f7b0084a7d13c51b3650432805ce0906e05a10d7014a6034"
+metafile = true
+
+[[files]]
+file = "mods/congrega-mystica.pw.toml"
+hash = "36d73be526b7161a73d506405447a26456519f6d01374d96f07f3e860745e31c"
 metafile = true
 
 [[files]]
@@ -511,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "d24ec599eb7d339b42baa067d08268ff90b7ff7f6ed18c1f173b7ed09eabe783"
+metafile = true
+
+[[files]]
+file = "mods/pearlhome.pw.toml"
+hash = "6d1f7e08f832980fe003017348f27361b2168c4c221361c63b55057222ae7ac5"
 metafile = true
 
 [[files]]

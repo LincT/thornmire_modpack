@@ -1,0 +1,13 @@
+name = "PearlHome"
+filename = "pearlhome-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45337f7cea0dfe8410fc66a45e946ea85b256ad3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2882391
+project-id = 362892
