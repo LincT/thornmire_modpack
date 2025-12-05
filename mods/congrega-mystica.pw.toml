@@ -1,13 +1,13 @@
 name = "Congrega Mystica"
-filename = "CongregaMystica-1.12.2-1.0.5.jar"
+filename = "CongregaMystica-1.12.2-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a25895016c35132f562b097e1563833dc6e43e34"
+hash = "04ecd4ff029c65940ff98b5d58e2d7401224e720"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7097580
+file-id = 7241925
 project-id = 1341792

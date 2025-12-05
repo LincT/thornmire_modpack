@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
+file = "Thaumesque.png"
+hash = "84855c120be3fddf68fc12467ed6472bcafcf4c132ec4541f6a1a4d949c6bfef"
+
+[[files]]
 file = "config/baubles.cfg"
 hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
@@ -438,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "36d73be526b7161a73d506405447a26456519f6d01374d96f07f3e860745e31c"
+hash = "290c13120f2ebca22569731bdfedf3c745a7fc6fa0b9edf28ba2f19466567db6"
 metafile = true
 
 [[files]]
@@ -548,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "315794629a582d220a941c9be620757426d1fa529a87b7b778f1b0ac1864187c"
+hash = "cc016aadce2d17e3aa6f7f6290a4f844751753bee76fcf49711bc35922aa5a3a"
 metafile = true
 
 [[files]]
