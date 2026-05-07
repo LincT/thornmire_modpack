@@ -442,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "290c13120f2ebca22569731bdfedf3c745a7fc6fa0b9edf28ba2f19466567db6"
+hash = "97e350a19d69a165a7e5bf1606dd2561e29575fdfb19e44544af324ae4ae1dae"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "3ef0d324c6ab0c5e6b47ba711ce019662a3d0c41c8a2caa36878336e9947eed7"
+hash = "672995b514569a7098815531007443efd4153c592be8b12e7efcbf08c70ddf6f"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "cc016aadce2d17e3aa6f7f6290a4f844751753bee76fcf49711bc35922aa5a3a"
+hash = "3872ef351238a40a1b62c0e3f4fec1e3a636077f50e2e5626a1a94aab3332198"
 metafile = true
 
 [[files]]
