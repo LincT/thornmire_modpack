@@ -1,0 +1,13 @@
+name = "Small Shield & Totem"
+filename = "Small_Shield__Totem_v2.9_pre1.13.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "467ce4b7dfc54de46e315f621d76ee1c005e6dbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6064042
+project-id = 1173944

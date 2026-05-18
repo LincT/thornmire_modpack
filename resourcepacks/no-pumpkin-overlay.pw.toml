@@ -1,0 +1,13 @@
+name = "No Pumpkin Overlay/Blur"
+filename = "no pumpkin overlay 1.11 - 1.12.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40d62bf5f10b6cef740167dcee13eb95230dfafa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4865987
+project-id = 936819

@@ -13,6 +13,10 @@ file = "config/baubles.cfg"
 hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
+file = "config/bibliocraft.cfg"
+hash = "42494b695a3dfa42499bf37fca45e44f6a0997860fb9fda8101ea2ba4e6aa736"
+
+[[files]]
 file = "config/brewcraft.cfg"
 hash = "b00571f289d08ad528f7fd10b8635ff880ec0e4d0cb3c9bfd03bf385b8eed88f"
 
@@ -385,6 +389,18 @@ file = "config/splash.properties"
 hash = "94bf4428fd98f8ef520d07a3afd3b95ff97a70c410875937e6e7997093f8e136"
 
 [[files]]
+file = "config/tcresearchpatcher.cfg"
+hash = "0d9afbe99d1df987fcab629d8193a5675fd2bd3d71d344f61ca8fb069afe4edc"
+
+[[files]]
+file = "config/tcresearchpatcher/patches/remove.json"
+hash = "84bb590a8836d2c9cb0860354cba53b809debf974fd48312af138b08909556c3"
+
+[[files]]
+file = "config/tcresearchpatcher/patches/thaumicwonders.json"
+hash = "5a58f8ed6098671056a8af1cf07b947e45662aa405224ab73aa2e4552dd4cd27"
+
+[[files]]
 file = "config/thaumcraft_graphics.cfg"
 hash = "9ea93225bc5fb471d203c08b4f1d386b6bd862f52d3320c06306303d45129251"
 
@@ -436,18 +452,28 @@ hash = "58284abd2d7e185ac0c03a7fda11df8d84c9cc5b689a7a35fca7eb3283127418"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "9dd04a72e14a6682f7b0084a7d13c51b3650432805ce0906e05a10d7014a6034"
 metafile = true
 
 [[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "97e350a19d69a165a7e5bf1606dd2561e29575fdfb19e44544af324ae4ae1dae"
+hash = "4a171910e7e465ab33050417100394c8b6020ad8189eda57312b22e894f762f8"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "672995b514569a7098815531007443efd4153c592be8b12e7efcbf08c70ddf6f"
+hash = "8268a0441a5da4f2c0df7505f45db738426ab77a1d48024fa9d55d191949ca35"
 metafile = true
 
 [[files]]
@@ -511,6 +537,11 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
+file = "mods/new-crimson-revelations.pw.toml"
+hash = "6b0446077349e2ff872a9bd0b6c8b51fa7597755c55142323ddd99ac95556fc9"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "de7dd06a79b1bdba3139fda7a34347a81d02a66edd601325401ed13048141a6a"
 metafile = true
@@ -546,6 +577,11 @@ hash = "6a6e949395eace34dca3f04035c9430d2561cffd81ce4f5b72e37b5f490c323e"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-research-patcher.pw.toml"
+hash = "ba42a95e6a3bfb3cf58b5af112494f2c9a19bde0835a03d38b7bd6965e55a5d9"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "bec7c1a87d50dcc626bddb295a5cf3eca01e26ce07bc4189ef6802e37947a7e6"
 metafile = true
@@ -571,8 +607,28 @@ hash = "d5aa94360e10f496a3285869bfb8d87a2326922fb89fbffaf97a690690336f59"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-wonders-unofficial.pw.toml"
+hash = "08747bc93cdb2c83d5a11ffc411dccf54e7aaae438edab2e0cb5e1dcedd9ea17"
+metafile = true
+
+[[files]]
 file = "mods/tomb-many-graves-2.pw.toml"
 hash = "bf4cc343fc3d9b48eeb1b1c3783a8793992a1135773186d84c76c7439f65ba6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-pumpkin-overlay.pw.toml"
+hash = "75878db78ea1f63b0832dda72f1ea359bef40cc1b0725877a90d8b726f78378b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-dust-power-level-display-3d-models-64px.pw.toml"
+hash = "c9df7a29518b3532c81bcf7b815a1ae449d3a9c40464085217f6addaeb59c641"
+metafile = true
+
+[[files]]
+file = "resourcepacks/small-shield-totem.pw.toml"
+hash = "8e99ec0dedc8f5e08138c807f091ebf633f6eac2e82e18079b98103fedbf0bc6"
 metafile = true
 
 [[files]]

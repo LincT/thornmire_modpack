@@ -1,0 +1,39 @@
+[
+  {
+   "key": "TWOND_TIMEWINDER",
+   "ops": [
+                {
+                 "op": "remove",
+                 "path":"key"
+                }
+            ]
+           },
+    {
+   "key": "TWOND_VOID_FORTRESS_ARMOR",
+   "ops": [
+                {
+                 "op": "remove",
+                 "path":"key"
+                }
+            ]
+      },
+    {
+   "key": "TWOND_HEXAMITE",
+   "ops": [
+                {
+                 "op": "remove",
+                 "path":"key"
+                }
+            ]
+      },
+      
+    {
+   "key": "TWOND_VOID_WALKER_BOOTS",
+   "ops": [
+                {
+                 "op": "remove",
+                 "path":"key"
+                }
+            ]
+    }      
+]

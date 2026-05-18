@@ -1,0 +1,14 @@
+name = "REDSTONE DUST POWER LEVEL DISPLAY 3D Models 64px modern LED Cable Look- Infinitude"
+filename = "1.11 INFINITUDE Redstone Dust Power 3D 64px.zip"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "745b4fa0d45aedc5706d996e84c3e2448efb9ab7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2322557
+project-id = 247221
