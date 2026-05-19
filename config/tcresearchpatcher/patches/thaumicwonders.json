@@ -558,6 +558,11 @@
 				"path": "category",
 				"value": "ELDRITCH"
 			},
+            {
+				"op": "replace",
+				"path": "parents/1",
+				"value": "!EldritchGuardian"
+			},
 			{
 				"op": "replace",
 				"path": "meta",
