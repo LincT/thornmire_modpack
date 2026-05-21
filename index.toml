@@ -398,7 +398,7 @@ hash = "84bb590a8836d2c9cb0860354cba53b809debf974fd48312af138b08909556c3"
 
 [[files]]
 file = "config/tcresearchpatcher/patches/thaumicwonders.json"
-hash = "8218ceef7ba44a8328b54bc6fc004ce577da4fcf6369b2fb2fb6e6995fa5b06e"
+hash = "dee0ae5b3d6e3b20071987178fbcf3ba6f255d126cde4e6865688e5a039db292"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"

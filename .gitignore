@@ -18,3 +18,4 @@ exclude the modpack compiler
 # Exclude local dev files
 rm_config/
 scratchpad/
+bak/
