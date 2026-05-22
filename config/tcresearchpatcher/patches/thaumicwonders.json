@@ -1219,6 +1219,66 @@
             }
         ]
 	},
+        {
+        "key": "TWOND_FOCUS_BLINK",
+        "ops": [
+			{
+				"op": "replace",
+				"path": "location/0",
+				"value": "2"
+			},
+			{
+				"op": "replace",
+				"path": "location/1",
+				"value": "3"
+			},
+			{
+				"op": "replace",
+				"path": "category",
+				"value": "AUROMANCY"
+			}
+        ]
+	},
+        {
+        "key": "TWOND_ESSENTIA_ENCHANTER",
+        "ops": [
+			{
+				"op": "replace",
+				"path": "location/0",
+				"value": "-8"
+			},
+			{
+				"op": "replace",
+				"path": "location/1",
+				"value": "4"
+			},
+			{
+				"op": "replace",
+				"path": "category",
+				"value": "INFUSION"
+			}
+        ]
+	},
+        {
+        "key": "TWOND_INFUSION_CLAW",
+        "ops": [
+			{
+				"op": "replace",
+				"path": "location/0",
+				"value": "-1"
+			},
+			{
+				"op": "replace",
+				"path": "location/1",
+				"value": "7"
+			},
+			{
+				"op": "replace",
+				"path": "category",
+				"value": "INFUSION"
+			}
+        ]
+	},
 	{
         "key": "TWOND_BASE",
         "ops": [

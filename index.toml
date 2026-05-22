@@ -398,7 +398,7 @@ hash = "84bb590a8836d2c9cb0860354cba53b809debf974fd48312af138b08909556c3"
 
 [[files]]
 file = "config/tcresearchpatcher/patches/thaumicwonders.json"
-hash = "dee0ae5b3d6e3b20071987178fbcf3ba6f255d126cde4e6865688e5a039db292"
+hash = "519cc16b4cdd13bd9f2e0f91add26dc73cd3b0e4ebc44c2eec8305f234dd2075"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "08747bc93cdb2c83d5a11ffc411dccf54e7aaae438edab2e0cb5e1dcedd9ea17"
+hash = "850d36d9b76e4cb70e2146d06b17268d983e19a700fa78be2a426c3aad04f63c"
 metafile = true
 
 [[files]]
