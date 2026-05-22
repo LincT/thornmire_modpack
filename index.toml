@@ -612,6 +612,11 @@ hash = "850d36d9b76e4cb70e2146d06b17268d983e19a700fa78be2a426c3aad04f63c"
 metafile = true
 
 [[files]]
+file = "mods/thaumicapi.pw.toml"
+hash = "1028a86ecb43a31c2bc0831a0d80c03d84ec23b6339e22074a6d7ba22e0cf5d9"
+metafile = true
+
+[[files]]
 file = "mods/tomb-many-graves-2.pw.toml"
 hash = "bf4cc343fc3d9b48eeb1b1c3783a8793992a1135773186d84c76c7439f65ba6e"
 metafile = true
