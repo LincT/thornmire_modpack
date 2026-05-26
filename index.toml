@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "6b0446077349e2ff872a9bd0b6c8b51fa7597755c55142323ddd99ac95556fc9"
+hash = "4907a9659851816e2b9297b31bfeaa8f495e8bd0eaca6dd72827d81c8ca2e6f5"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraftfix.pw.toml"
-hash = "3872ef351238a40a1b62c0e3f4fec1e3a636077f50e2e5626a1a94aab3332198"
+hash = "ecb63994fed2f714d57570be89bcbcc86e11593053ed0cf368b1b5a5c03ed415"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "850d36d9b76e4cb70e2146d06b17268d983e19a700fa78be2a426c3aad04f63c"
+hash = "36cada97eab9503e4d1d3252fcd1592865965a2fd5579bf4b9d00d6611e4a083"
 metafile = true
 
 [[files]]
