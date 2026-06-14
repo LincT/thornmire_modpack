@@ -20,3 +20,4 @@ packwiz
 rm_config/
 scratchpad/
 bak/
+.env
