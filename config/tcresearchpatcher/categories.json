@@ -1,0 +1,10 @@
+[
+    {
+        "key": "THAUMESQUE",
+        "requirement": "FIRSTSTEPS",
+        "aspects": {},
+        "icon": "minecraft:textures/items/book_normal.png",
+        "background": "thaumcraft:textures/gui/gui_research_back_6.jpg",
+        "backgroundOverlay": "thaumcraft:textures/gui/gui_research_back_over.png"
+    }
+]

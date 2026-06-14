@@ -1,0 +1,238 @@
+{
+    "entries": [
+        {
+            "key": "THAUMESQUE_WELCOME",
+            "name": "Thaumesque Welcome",
+            "icons": [
+                "minecraft:book"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                0,
+                0
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "meta": [
+                "ROUND"
+            ],
+            "stages": [
+                {
+                    "text": "Welcome",
+                    "required_knowledge":["OBSERVATION;BASICS;0"]
+                    
+                },
+                {
+                    "text": "Welcome to the Thaumesque Experience. <PAGE>On the official server for the modpack, you start inside a white house, though it's not boarded up, and doesn't lead to an underground empire.<BR>In here one is safe from zombies, creepers, and most flammable surfaces have been fortified."
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_HOME",
+            "name": "Home",
+            "icons": [
+                "minecraft:ender_pearl"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                -2,
+                2
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Greetings weary traveler.<LINE>One wants to surely build far from Spawn without ending up at a disadvantage to those early builders. It's recommended to use the scatter teleporter at spawn to find a place far away to build. This way we can ensure there's plenty of room for everyone to expand their bases.<PAGE><LINE>Thanks to generous \"donations\" from the end and other realms, this is possible even in the early game. <BR>Simply smash an ender pearl at your feet to be whisked safely back to your bed. <BR>- If you crouch or do not have a bed, smashing the pearl will send you to Spawn. <BR>- Throwing pearls normally has its normal effect<BR>- At the time of writing, smashing certain fruit has only musical impact."
+                   
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_TRADE",
+            "name": "Trade",
+            "icons": [
+                "enderstorage:ender_storage"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                2,
+                2
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Around spawn you'll see a trading chest, with pouches and spare beds.<BR>Use pouches for the global public trading and donation system.<BR>It's possible to create another trade chest by leaving it unlocked and setting to triple pink."
+                   
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_STARTING",
+            "name": "Early Game Help",
+            "icons": [
+                "minecraft:furnace"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                -4,
+                4
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "At spawn there's a grinder, and a few powered machines to help ore's last longer. Double your ores, print plates as needed, and cook/smelt."
+                   
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_KINDNESS",
+            "name": "Be Kind",
+            "icons": [
+                "minecraft:skull;1;4"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                -2,
+                6
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Server Courtesy<LINE>Don't take from others' bases or damage them if you find them. <BR>Scan a few chests or blocks if you must, but otherwise leave no trace you were there <BR>- Especially if not invited.<PAGE><LINE>Accidents happen (such as creepers), but deliberate actions might merit responses up to and including banishment. <BR>§land no one likes being the enforcer.§r"
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_HARVESTCRAFT",
+            "name": "Harvestcraft",
+            "icons": [
+                "harvestcraft:market"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                4,
+                4
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Eventually either a llama can't be found, a slime can't be spawned, or one simply feels like enjoying the moment with a friend.<BR>For that there's Pam's Harvestcraft<PAGE>Pam's Brewcraft is also installed because want some rye? 'Course you do!<PAGE>If you're on the official server, there's a market at spawn, if playing on another server, we recommend setting up market and shipping at a shared place and leaving other configs as they are.<PAGE>Bush/plant natural gen is suppressed due to spread mechanics, as well as the main server's seed seems to favor certain biomes. Allowing natural spread would add server ticks better spent on other things."
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_IMPROVE",
+            "name": "Bugs and feedback",
+            "icons": [
+                "minecraft:tnt"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                2,
+                6
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Things are always under construction and a few bugs still persist. <LINE>We'll outline those on the following pages, but please feel free to submit ideas/issues/balance things on the git repo.<PAGE>§lGolemancy§r<LINE>There's a rare bug related to having a golem farm near other entities it seems wherein seals randomly vanish. Try to build any farms away from livestock or nether portals"
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_SPACE",
+            "name": "Space",
+            "icons": [
+                "minecraft:grass"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                0,
+                8
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Settling Down<LINE>The server does not currently use chunk claims, so courtesy matters.<BR>Use the scatter teleporter to find open space, and avoid building directly beside another player's base unless invited.<PAGE><LINE>Leave enough room for both bases to expand, including farms, machines, roads, portals, and thaumic experiments.<BR>If there is a dispute, staff may help resolve it."
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_NETHER",
+            "name": "The Nether",
+            "icons": [
+                "minecraft:netherrack"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                -4,
+                8
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "The Nether<LINE>The spawn portal connects to a highway that is currently under construction.<BR>There is also a drop down to the less civilized Nether below.<PAGE><LINE>Watch your step, mark your path, and aim for red slime if gravity makes sudden suggestions."
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_EXPLORATION",
+            "name": "Exploration",
+            "icons": [
+                "minecraft:map"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                4,
+                8
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "stages": [
+                {
+                    "text": "Exploration<LINE>Some biomes may be difficult to find, especially deserts and magical forests.<BR>Spawn may include portals or paths to help players reach important exploration areas faster.<PAGE><LINE>Cultists have also been spotted in the desert, so prepare accordingly."
+                }
+            ]
+        },
+        {
+            "key": "THAUMESQUE_TIPS",
+            "name": "Pack Notes",
+            "icons": [
+                "minecraft:knowledge_book"
+            ],
+            "category": "THAUMESQUE",
+            "location": [
+                0,
+                -2
+            ],
+            "parents": [
+                "FIRSTSTEPS"
+            ],
+            "meta": [
+                "ROUND"
+            ],
+            "stages": [
+                {
+                    "text": "The pack has some config changes to help mods work together more smoothly.<BR>Sometimes disabling an item or feature also removes a useful hint from normal progression.<PAGE><LINE>When you see the knowledge book icon, it means this entry is restoring an important tip while leaving a potentially unstable or play-breaking feature disabled."
+                }
+            ]
+        }
+    ]
+}

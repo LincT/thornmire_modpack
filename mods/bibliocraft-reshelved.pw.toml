@@ -1,0 +1,13 @@
+name = "BiblioCraft Reshelved"
+filename = "BiblioCraftReshelved-1.12.2-2.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c65ac1d7f55725aefd5ff98be9fab2ee3666fe72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8181269
+project-id = 1523934

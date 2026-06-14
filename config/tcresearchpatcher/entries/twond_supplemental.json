@@ -1,0 +1,33 @@
+{
+    "entries": [
+        {
+            "key": "THAUMESQUE_TWOND_WARPSHELL",
+            "name": "Warpshell",
+            "icons": [
+                "minecraft:knowledge_book"
+            ],
+            "category": "BASICS",
+            "location": [
+                -13,
+                2
+            ],
+            "parents": [
+                "!TWOND_CORRUPTION_AVATAR"
+            ],
+            "meta": [
+                "ROUND"
+            ],
+            "stages": [
+                {
+                    "text": "Warp-fortified armor?",
+                    "required_knowledge": [
+                        "OBSERVATION;ELDRITCH;1"
+                    ]
+                },
+                {
+                    "text": "While I've yet to replicate it, I've observed an interesting property in certain armor dropped by especially dangerous adversaries.<PAGE>It seems some items have a \"Warpshell,\" for lack of a better term, where the wearer's permanent warp fortifies the toughness of the armor itself."
+                }
+            ]
+        }
+    ]
+}
