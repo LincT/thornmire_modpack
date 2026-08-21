@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "4a171910e7e465ab33050417100394c8b6020ad8189eda57312b22e894f762f8"
+hash = "30c5e6dd7dc1f7c9fa5c5ab75d4c88a2688acf7dee3b52a08bc66eb57dde642d"
 metafile = true
 
 [[files]]
@@ -519,12 +519,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ca7b7879d416fc452285b158bebfe174ab983d5b468d98c88c38f52dc294bfa1"
+hash = "e00ba260fef65fd94c3be3517477784dc085ca0372a509fedfb70e18d50188dc"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
+hash = "c110145ceb6550551815c16329fb034ad53d3cec53a8e35eff159bdabe78ab5a"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
+hash = "558cd953d087c2c26b35d7cbf611f731874105f4439f05f1093f92a8b037dbb4"
 metafile = true
 
 [[files]]
@@ -624,12 +624,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "01902873654cc1fa9098cc7ae02c5650c62d29eeb36e9cb85ca30a4bee85d9cc"
+hash = "6386c36bbb8fdad0953eef10245a0489b4e674e8715f479561fed4f6726aac8f"
 metafile = true
 
 [[files]]
 file = "mods/thaumicapi.pw.toml"
-hash = "fdb82e19a79a84c30a40a2af3f41e7259b95fc094f107fa73b2aaca712f39a15"
+hash = "ec949181a8ce3b51c0c4d5bb99cbe6006cf6789fcf2385e826ccf41d441c7e2d"
 metafile = true
 
 [[files]]
