@@ -493,6 +493,11 @@ hash = "8268a0441a5da4f2c0df7505f45db738426ab77a1d48024fa9d55d191949ca35"
 metafile = true
 
 [[files]]
+file = "mods/ender-io.pw.toml"
+hash = "beb0b685c8ebeea200f98fb2d564703657ee6c85d67aa715682780a24465dbf0"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b230a1a72330117774f9d41ce4b00f9316c5a64cf9c4472c558175e6cab5c252"
 metafile = true
@@ -500,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/endercore.pw.toml"
 hash = "da248e9ddbfa20d933a7f9db87decd750983b1cba720473f1c474f1cf122b2ec"
-metafile = true
-
-[[files]]
-file = "mods/enderio-continuous.pw.toml"
-hash = "41e2722586f57fbb5fa40986e58778a70f29656f44d5e965b06785f0e8d851bf"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4ec900669d238a04fad6bcc1ecc68b9482eae3a031cd11251094311b45ceaacc"
+hash = "c110145ceb6550551815c16329fb034ad53d3cec53a8e35eff159bdabe78ab5a"
 metafile = true
 
 [[files]]
